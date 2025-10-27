@@ -1,4 +1,4 @@
-![Portfolio Screenshot](cp.png)
+![Portfolio Screenshot](cp.jpg)
 
 
 # Bharat Portfolio Website 🌐
